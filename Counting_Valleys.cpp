@@ -1,5 +1,5 @@
 // Hackerrank.com
-// PracticeInterview > Preparation Kit > Warm-up Challenges > Counting Valleys
+// Practice > Interview Preparation Kit > Warm-up Challenges > Counting Valleys
 
 #include <iostream>
 #include <string>
